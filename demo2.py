@@ -8,3 +8,5 @@ print("Sum of a and b is:", a + b)
 
 # add a new line to demonstrate the change
 
+l = [1, 2, 3]
+print("List contents:", l)
