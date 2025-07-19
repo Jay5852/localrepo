@@ -6,5 +6,5 @@ print("Sum of a and b is:", a + b)
 
 # This is a demo script that prints a message and the sum of two numbers.
 
-# add a new line to demonstrate the change
+
 
